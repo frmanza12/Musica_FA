@@ -1,0 +1,48 @@
+$defaultFontSize: 16px;
+
+$primary-color: #0c77be;
+$primary-color-hover: #053f57;
+
+$menu-color: #252527;
+
+$font-light: #fff;
+$font-grey-light: #e8e8e8;
+$font-grey: #808080;
+$font-grey-dark: rgb(37, 37, 37);
+$font-dark-light: #252527;
+$font-dark: #000;
+
+$border-light: #fff;
+$border-grey-light: #e8e8e8;
+$border-grey: #808080;
+$border-grey-dark: rgb(37, 37, 37);
+$border-dark-light: #252527;
+$border-dark: #000;
+
+$background-light: #fff;
+$background-grey-light: #e8e8e8;
+$background-grey: #808080;
+$background-grey-dark: rgb(37, 37, 37);
+$background-dark-light: #252527;
+$background-dark: #000;
+$background-error: #ff00001f;
+$background-success: #10f3231f;
+
+$success: #84b84c;
+$error: #f00;
+
+//Responsive down size
+
+$media-breackpoint-down-xs: 413.198px;
+$media-breackpoint-down-sm: 573.98px;
+$media-breackpoint-down-md: 767.198px;
+$media-breackpoint-down-lg: 991.198px;
+$media-breackpoint-down-xl: 1199.198px;
+
+//Responsive up size
+
+$media-breakpoint-up-xs: 320px;
+$media-breakpoint-up-sm: 576px;
+$media-breakpoint-up-md: 768px;
+$media-breakpoint-up-lg: 992px;
+$media-breakpoint-up-xl: 1200px;
